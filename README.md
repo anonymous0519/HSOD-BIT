@@ -14,7 +14,7 @@ HSOD-BIT is the first large-scale, high-quality benchmark dataset for hyperspect
 ![图片1](https://github.com/anonymous0519/HSOD-BIT/assets/53685129/f3f41ff4-775a-42fe-a35c-183b8188d4d7)
 
 
-#### Download:
+## Download:
 
 **Download link:** <https://pan.baidu.com/s/1AsdnO2-nadxTaq9_9Mo3Eg?pwd=tftf>
 
