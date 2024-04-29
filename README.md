@@ -10,9 +10,7 @@ The paper "DMSSN: Distilled Mixed Spectral-Spatial Network for Hyperspectral Sal
 
 #### Description:
 
-HSOD-BIT is the first large-scale, high-quality benchmark dataset for hyperspectral salient object detection, aimed at leveraging the advantages of spectral information to achieve higher precision in salient object detection tasks. Addressing the data requirements of contemporary deep learning models, this dataset provides pixel-level manual annotations for 319 hyperspectral data cubes and generates corresponding pseudo-color images. Each data cube contains 200 bands covering spectral information from visible light to near-infrared bands, with a spatial resolution of up to 1240×1680 pixels. In addition to conventional scenes, this dataset also specifically gathers challenging data to reflect the complexity of the real world, such as similar background interference, uneven lighting, overexposure, and other challenging scenarios. This further enhances the practicality and evaluation capabilities of the dataset.
-
-![1714354809442](C:\Users\24790\AppData\Roaming\Typora\typora-user-images\1714354809442.png)
+HSOD-BIT is the first large-scale, high-quality benchmark dataset for hyperspectral salient object detection, aimed at leveraging the advantages of spectral information to achieve higher precision in salient object detection tasks. Addressing the data requirements of contemporary deep learning models, this dataset provides pixel-level manual annotations for 319 hyperspectral data cubes and generates corresponding pseudo-color images. Each data cube contains 200 bands covering spectral information from visible light to near-infrared bands, with a spatial resolution of up to 1240×1680 pixels. In addition to conventional scenes, this dataset also specifically gathers challenging data to reflect the complexity of the real world, such as similar background interference, uneven lighting, overexposure, and other challenging scenarios. This further enhances the practicality and evaluation capabilities of the dataset.![图片1](C:\Users\24790\Desktop\图片1.png)
 
 #### Download:
 
